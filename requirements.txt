@@ -1,0 +1,7 @@
+langchain-text-splitters
+langchain
+langchain_community
+boto3 
+pdf2image 
+faiss-cpu 
+langchain_aws
